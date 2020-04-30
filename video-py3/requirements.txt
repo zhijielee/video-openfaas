@@ -1,0 +1,5 @@
+requests
+oss2
+opencv-python
+numpy
+pillow
